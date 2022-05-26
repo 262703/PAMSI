@@ -1,0 +1,60 @@
+6 0.25
+Matrix: 29 us
+List: 22 us
+6 0.5
+Matrix: 27 us
+List: 24 us
+6 0.75
+Matrix: 26 us
+List: 24 us
+6 1
+Matrix: 26 us
+List: 24 us
+50 0.25
+Matrix: 1745 us
+List: 331 us
+50 0.5
+Matrix: 1694 us
+List: 529 us
+50 0.75
+Matrix: 1658 us
+List: 672 us
+50 1
+Matrix: 1752 us
+List: 665 us
+100 0.25
+Matrix: 12354 us
+List: 2474 us
+100 0.5
+Matrix: 12621 us
+List: 3474 us
+100 0.75
+Matrix: 12622 us
+List: 7850 us
+100 1
+Matrix: 12372 us
+List: 3752 us
+500 0.25
+Matrix: 1631528 us
+List: 485034 us
+500 0.5
+Matrix: 1685022 us
+List: 1568293 us
+500 0.75
+Matrix: 1535945 us
+List: 4885798 us
+500 1
+Matrix: 1491298 us
+List: 529076 us
+1000 0.25
+Matrix: 12934554 us
+List: 11874612 us
+1000 0.5
+Matrix: 16832652 us
+List: 37346353 us
+1000 0.75
+Matrix: 12639958 us
+List: 63502282 us
+1000 1
+Matrix: 12515528 us
+List: 4836625 us
