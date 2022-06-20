@@ -85,7 +85,7 @@ bool Board::CheckWin(int Size, int Row, int PlayerMove)
 
         }
     }
-    //Diagonali
+    //Diag
     for (int i = 0; i < (Size - Row + 1); i++)
     {
         for (int j = 0; j < (Size - Row + 1); j++)
